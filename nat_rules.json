@@ -1,0 +1,23 @@
+{
+    "enabled": false,
+    "rules": [
+        {
+            "rule_id": "nat_20250427134628",
+            "nat_type": "DNAT",
+            "source_network": "0.0.0.0/0",
+            "translated_address": "192.168.0.10",
+            "enabled": true,
+            "description": "Forward external traffic to internal server",
+            "hit_count": 353
+        },
+        {
+            "rule_id": "nat_20250427134532",
+            "nat_type": "SNAT",
+            "source_network": "192.168.0.0/24",
+            "translated_address": "10.0.0.1",
+            "enabled": true,
+            "description": "Translate local network to WAN IP",
+            "hit_count": 0
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "routes": [
+        {
+            "destination": "152.154.18.0",
+            "subnet": "16",
+            "next_hop": "152.154.18.1",
+            "interface": "Ethernet",
+            "cost": 4,
+            "priority": 135,
+            "last_used": "2025-04-27 17:09:45"
+        },
+        {
+            "destination": "169.49.159.0",
+            "subnet": "28",
+            "next_hop": "169.49.159.1",
+            "interface": "Wi-Fi",
+            "cost": 4,
+            "priority": 56,
+            "last_used": "2025-04-27 17:11:19"
+        },
+        {
+            "destination": "202.6.83.0",
+            "subnet": "29",
+            "next_hop": "202.6.83.1",
+            "interface": "Ethernet",
+            "cost": 7,
+            "priority": 66,
+            "last_used": "2025-04-27 17:08:36"
+        },
+        {
+            "destination": "126.118.66.0",
+            "subnet": "16",
+            "next_hop": "126.118.66.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 2,
+            "priority": 78,
+            "last_used": "2025-04-27 17:08:50"
+        },
+        {
+            "destination": "187.175.41.0",
+            "subnet": "16",
+            "next_hop": "187.175.41.1",
+            "interface": "Ethernet 3",
+            "cost": 3,
+            "priority": 189,
+            "last_used": "2025-04-27 17:09:58"
+        },
+        {
+            "destination": "106.127.160.0",
+            "subnet": "28",
+            "next_hop": "106.127.160.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 1,
+            "priority": 94,
+            "last_used": "2025-04-27 17:09:46"
+        },
+        {
+            "destination": "102.98.142.0",
+            "subnet": "28",
+            "next_hop": "102.98.142.1",
+            "interface": "Ethernet 3",
+            "cost": 9,
+            "priority": 127,
+            "last_used": "2025-04-27 17:11:02"
+        },
+        {
+            "destination": "130.254.57.0",
+            "subnet": "30",
+            "next_hop": "130.254.57.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 2,
+            "priority": 185,
+            "last_used": "2025-04-27 17:10:51"
+        },
+        {
+            "destination": "195.40.136.0",
+            "subnet": "30",
+            "next_hop": "195.40.136.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 3,
+            "priority": 177,
+            "last_used": "2025-04-27 17:06:54"
+        },
+        {
+            "destination": "117.148.39.0",
+            "subnet": "30",
+            "next_hop": "117.148.39.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 4,
+            "priority": 192,
+            "last_used": "2025-04-27 17:11:12"
+        },
+        {
+            "destination": "153.101.182.0",
+            "subnet": "28",
+            "next_hop": "153.101.182.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 10,
+            "priority": 51,
+            "last_used": "2025-04-27 17:10:41"
+        },
+        {
+            "destination": "16.68.201.0",
+            "subnet": "30",
+            "next_hop": "16.68.201.1",
+            "interface": "Ethernet 3",
+            "cost": 10,
+            "priority": 96,
+            "last_used": "2025-04-27 17:07:21"
+        },
+        {
+            "destination": "60.237.169.0",
+            "subnet": "24",
+            "next_hop": "60.237.169.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 3,
+            "priority": 117,
+            "last_used": "2025-04-27 17:11:20"
+        },
+        {
+            "destination": "44.109.173.0",
+            "subnet": "24",
+            "next_hop": "44.109.173.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 2,
+            "priority": 96,
+            "last_used": "2025-04-27 17:09:15"
+        },
+        {
+            "destination": "80.58.115.0",
+            "subnet": "29",
+            "next_hop": "80.58.115.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 1,
+            "priority": 62,
+            "last_used": "2025-04-27 17:10:13"
+        },
+        {
+            "destination": "61.88.119.0",
+            "subnet": "24",
+            "next_hop": "61.88.119.1",
+            "interface": "Ethernet 3",
+            "cost": 5,
+            "priority": 162,
+            "last_used": "2025-04-27 17:10:26"
+        },
+        {
+            "destination": "106.73.4.0",
+            "subnet": "30",
+            "next_hop": "106.73.4.1",
+            "interface": "Ethernet",
+            "cost": 10,
+            "priority": 185,
+            "last_used": "2025-04-27 17:10:25"
+        },
+        {
+            "destination": "143.181.112.0",
+            "subnet": "16",
+            "next_hop": "143.181.112.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 9,
+            "priority": 125,
+            "last_used": "2025-04-27 17:06:39"
+        },
+        {
+            "destination": "50.200.122.0",
+            "subnet": "28",
+            "next_hop": "50.200.122.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 10,
+            "priority": 132,
+            "last_used": "2025-04-27 17:07:23"
+        },
+        {
+            "destination": "87.172.205.0",
+            "subnet": "30",
+            "next_hop": "87.172.205.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 5,
+            "priority": 132,
+            "last_used": "2025-04-27 17:10:43"
+        },
+        {
+            "destination": "216.233.98.0",
+            "subnet": "24",
+            "next_hop": "216.233.98.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 6,
+            "priority": 76,
+            "last_used": "2025-04-27 17:09:44"
+        },
+        {
+            "destination": "216.176.147.0",
+            "subnet": "16",
+            "next_hop": "216.176.147.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 4,
+            "priority": 198,
+            "last_used": "2025-04-27 17:11:36"
+        },
+        {
+            "destination": "101.171.79.0",
+            "subnet": "16",
+            "next_hop": "101.171.79.1",
+            "interface": "Ethernet",
+            "cost": 9,
+            "priority": 140,
+            "last_used": "2025-04-27 17:10:04"
+        },
+        {
+            "destination": "156.227.254.0",
+            "subnet": "28",
+            "next_hop": "156.227.254.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 8,
+            "priority": 114,
+            "last_used": "2025-04-27 17:10:07"
+        },
+        {
+            "destination": "123.225.197.0",
+            "subnet": "16",
+            "next_hop": "123.225.197.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 10,
+            "priority": 127,
+            "last_used": "2025-04-27 17:11:06"
+        },
+        {
+            "destination": "146.164.62.0",
+            "subnet": "29",
+            "next_hop": "146.164.62.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 5,
+            "priority": 154,
+            "last_used": "2025-04-27 17:09:25"
+        },
+        {
+            "destination": "175.2.250.0",
+            "subnet": "30",
+            "next_hop": "175.2.250.1",
+            "interface": "Ethernet",
+            "cost": 3,
+            "priority": 170,
+            "last_used": "2025-04-27 17:11:15"
+        },
+        {
+            "destination": "71.79.167.0",
+            "subnet": "29",
+            "next_hop": "71.79.167.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 4,
+            "priority": 56,
+            "last_used": "2025-04-27 17:07:19"
+        },
+        {
+            "destination": "9.242.142.0",
+            "subnet": "29",
+            "next_hop": "9.242.142.1",
+            "interface": "Wi-Fi",
+            "cost": 1,
+            "priority": 109,
+            "last_used": "2025-04-27 17:08:25"
+        },
+        {
+            "destination": "23.195.76.0",
+            "subnet": "28",
+            "next_hop": "23.195.76.1",
+            "interface": "Wi-Fi",
+            "cost": 5,
+            "priority": 154,
+            "last_used": "2025-04-27 17:09:06"
+        },
+        {
+            "destination": "217.107.48.0",
+            "subnet": "24",
+            "next_hop": "217.107.48.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 7,
+            "priority": 191,
+            "last_used": "2025-04-27 17:09:01"
+        },
+        {
+            "destination": "192.168.1.0",
+            "subnet": "24",
+            "next_hop": "192.168.1.1",
+            "interface": "Ethernet",
+            "cost": 1,
+            "priority": 10,
+            "last_used": "2025-04-27 17:11:32"
+        },
+        {
+            "destination": "64.163.252.0",
+            "subnet": "29",
+            "next_hop": "64.163.252.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 3,
+            "priority": 102,
+            "last_used": "2025-04-27 17:09:53"
+        },
+        {
+            "destination": "3.134.31.0",
+            "subnet": "24",
+            "next_hop": "3.134.31.1",
+            "interface": "Wi-Fi",
+            "cost": 8,
+            "priority": 56,
+            "last_used": "2025-04-27 17:11:13"
+        },
+        {
+            "destination": "136.148.169.0",
+            "subnet": "28",
+            "next_hop": "136.148.169.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 3,
+            "priority": 187,
+            "last_used": "2025-04-27 17:10:42"
+        },
+        {
+            "destination": "44.137.188.0",
+            "subnet": "30",
+            "next_hop": "44.137.188.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 4,
+            "priority": 108,
+            "last_used": "2025-04-27 17:09:43"
+        },
+        {
+            "destination": "139.196.165.0",
+            "subnet": "16",
+            "next_hop": "139.196.165.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 1,
+            "priority": 152,
+            "last_used": "2025-04-27 17:07:25"
+        },
+        {
+            "destination": "136.120.185.0",
+            "subnet": "16",
+            "next_hop": "136.120.185.1",
+            "interface": "Local Area Connection* 10",
+            "cost": 10,
+            "priority": 129,
+            "last_used": "2025-04-27 17:09:48"
+        },
+        {
+            "destination": "82.56.93.0",
+            "subnet": "30",
+            "next_hop": "82.56.93.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 7,
+            "priority": 145,
+            "last_used": "2025-04-27 17:09:56"
+        },
+        {
+            "destination": "59.159.98.0",
+            "subnet": "30",
+            "next_hop": "59.159.98.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 1,
+            "priority": 68,
+            "last_used": null
+        },
+        {
+            "destination": "110.233.168.0",
+            "subnet": "16",
+            "next_hop": "110.233.168.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 4,
+            "priority": 195,
+            "last_used": "2025-04-27 17:11:01"
+        },
+        {
+            "destination": "149.166.112.0",
+            "subnet": "30",
+            "next_hop": "149.166.112.1",
+            "interface": "Wi-Fi",
+            "cost": 7,
+            "priority": 98,
+            "last_used": "2025-04-27 17:11:21"
+        },
+        {
+            "destination": "145.233.245.0",
+            "subnet": "30",
+            "next_hop": "145.233.245.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 1,
+            "priority": 158,
+            "last_used": null
+        },
+        {
+            "destination": "95.145.31.0",
+            "subnet": "30",
+            "next_hop": "95.145.31.1",
+            "interface": "Local Area Connection* 1",
+            "cost": 8,
+            "priority": 185,
+            "last_used": "2025-04-27 17:10:45"
+        },
+        {
+            "destination": "152.101.189.0",
+            "subnet": "30",
+            "next_hop": "152.101.189.1",
+            "interface": "Ethernet",
+            "cost": 7,
+            "priority": 154,
+            "last_used": null
+        },
+        {
+            "destination": "137.203.138.0",
+            "subnet": "28",
+            "next_hop": "137.203.138.1",
+            "interface": "Loopback Pseudo-Interface 1",
+            "cost": 3,
+            "priority": 100,
+            "last_used": "2025-04-27 17:11:18"
+        },
+        {
+            "destination": "138.74.156.0",
+            "subnet": "28",
+            "next_hop": "138.74.156.1",
+            "interface": "Ethernet",
+            "cost": 8,
+            "priority": 179,
+            "last_used": "2025-04-27 17:10:47"
+        },
+        {
+            "destination": "152.214.201.0",
+            "subnet": "24",
+            "next_hop": "152.214.201.1",
+            "interface": "Ethernet",
+            "cost": 1,
+            "priority": 50,
+            "last_used": null
+        },
+        {
+            "destination": "197.157.206.0",
+            "subnet": "30",
+            "next_hop": "197.157.206.1",
+            "interface": "Ethernet",
+            "cost": 2,
+            "priority": 169,
+            "last_used": null
+        }
+    ]
+}

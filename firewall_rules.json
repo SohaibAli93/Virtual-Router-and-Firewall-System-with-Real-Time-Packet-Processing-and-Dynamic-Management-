@@ -1,0 +1,45 @@
+{
+    "enabled": true,
+    "default_action": "block",
+    "rules": [
+        {
+            "rule_id": "20250427134426",
+            "action": "allow",
+            "source_ip": "any",
+            "destination_ip": "any",
+            "protocol": "TCP",
+            "source_port": "any",
+            "destination_port": "80-443",
+            "enabled": true,
+            "description": "Allow HTTP and HTTPS traffic",
+            "created": "2025-04-27 13:44:26",
+            "hit_count": 467
+        },
+        {
+            "rule_id": "20250427134405",
+            "action": "allow",
+            "source_ip": "192.168.0.0/16",
+            "destination_ip": "any",
+            "protocol": "any",
+            "source_port": "any",
+            "destination_port": "any",
+            "enabled": true,
+            "description": "Allow traffic from local network",
+            "created": "2025-04-27 13:44:05",
+            "hit_count": 108
+        },
+        {
+            "action": "allow",
+            "source_ip": "any",
+            "destination_ip": "2.43.108.0",
+            "protocol": "any",
+            "source_port": "any",
+            "destination_port": "any",
+            "description": "block all",
+            "rule_id": "20250427155849",
+            "created": "2025-04-27 15:58:49",
+            "hit_count": 0,
+            "enabled": true
+        }
+    ]
+}
